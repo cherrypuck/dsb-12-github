@@ -1,4 +1,4 @@
 # print hello world
 
-# print good bye
+# print good byr
 print("good bye")
